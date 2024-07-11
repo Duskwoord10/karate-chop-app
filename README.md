@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Project Karate Logo" src="./karate_icon.png" width="200" height="200" />
+    <img alt="Project Karate Logo" src="https://github.com/Duskwoord10/karate-chop-domain/blob/master/karate_icon.png" width="200" height="200" />
 </p>
 
 # KarateChop Solution
