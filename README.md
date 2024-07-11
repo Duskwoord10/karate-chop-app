@@ -76,7 +76,8 @@ To run the API using Docker:
 #### Endpoints
 
 - **Welcome Endpoint**: Check if the API is running by navigating to `http://localhost:8080/`.
-- **Search Endpoint**: Perform a binary search by navigating to `http://localhost:8080/search?target=7&array=1,3,5,7,9,11,13,15`.
+- **Search Endpoint**: Perform a binary search by navigating to `http://localhost:8080/chop?target=7&array=1,3,5,7,9,11,13,15`.
+- - **Swagger UI**: Explore API endpoints with Swagger by navigating to `http://localhost:8080/swagger/`.
 
 ### Tests (KarateChopDomain.Tests)
 
